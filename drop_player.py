@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import simpleaudio as sa
 import os
 from tkinter import *
