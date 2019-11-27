@@ -1,0 +1,34 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "3488f0fb9dac3cfc10dff21c44845626cbe25c021a5bdad1f4f25eb8277218a0"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "simpleaudio": {
+            "hashes": [
+                "sha256:4c745a6ba023cf7c7cd2018e62f0b14aca77f381151ed4b7370f71b1cb90831f",
+                "sha256:54c87cba43280968ed875149263770f8da11066479dbdaf0ab0cc707f2020e85",
+                "sha256:6ce300e2f1fae12ea976dd6f02376077cdc184c95707e33a0b5a5e5ccbe71c96",
+                "sha256:8770651ac4a46af0655cf0cfef8c866d508b2ca820b41e45cbd15aa33f9a552a",
+                "sha256:96030d0600dda4b2655dd7b2ed6b584c28ead95e0fb14c4e19d015a5c7c3cdc4",
+                "sha256:cfc5a1100e1338055ed989db58996ada168d3c4566a6c842770a20fa65ecaea4",
+                "sha256:d7acc3dc8ec6c2ed3424ec1d4746a3adc4c58c082a0a2f00c0ff6f0c4ea87032"
+            ],
+            "index": "pypi",
+            "version": "==1.0.3"
+        }
+    },
+    "develop": {}
+}
